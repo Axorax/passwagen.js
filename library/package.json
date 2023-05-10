@@ -1,0 +1,28 @@
+{
+  "name": "passwagen",
+  "version": "1.0.0",
+  "description": "Password generator with multiple options",
+  "main": "passwagen.js",
+  "exports": {
+    "import": "./passwagen.js",
+    "require": "./passwagen.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/passwagen.js.git"
+  },
+  "keywords": [
+    "password",
+    "password-generator",
+    "passwagen",
+    "password-gen",
+    "passgen"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/passwagen.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/passwagen.js#readme"
+}
